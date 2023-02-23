@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Eu sou Christian Gomes 🧙</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Hello there! I'm Christian Gomes 🧙</h3>
 
 <div align="center">
   <a href="https://github.com/christianrfg">
@@ -13,13 +13,18 @@
   
 ##
   
-<h4 align="left">Atualmente</h4>
+<h4 align="left">About Me</h4>
+
+As a Senior Data Scientist and Machine Learning Engineer with over 7 years of experience in both software industry and academic research, I have demonstrated a strong ability to develop and deploy complex machine learning models and solutions. My academic background includes a Master's degree in Computer Science, with a specialization in Natural Language Processing (NLP).
+
   
-- 🔭 Trabalhando na Deloitte como Cientista de Dados Senior
-- 🌱 Aprendendo mais sobre Google Cloud Platform
-- 👯 Procurando colaborar em projetos de Ciência de Dados
+<h4 align="left">Current Challenges</h4>
   
-<h4 align="left">Ferramentas</h4>
+- 🔭 Senior Data Scientist at Deloitte.
+- 🌱 Freelancing at UpWork.
+- 📚 Studying about AWS and OpenAI.
+  
+<h4 align="left">Tools</h4>
 <div style="display: inline_block">
   <img align="center" alt="Chris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Chris-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
