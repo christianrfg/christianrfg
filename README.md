@@ -20,9 +20,8 @@ As a Senior Data Scientist and Machine Learning Engineer with over 7 years of ex
   
 <h4 align="left">Current Challenges</h4>
   
-- 🔭 Senior Data Scientist at Deloitte.
 - 🌱 Freelancing at UpWork.
-- 📚 Studying about AWS and OpenAI.
+- 📚 Studying about Web Development.
   
 <h4 align="left">Tools</h4>
 <div style="display: inline_block">
