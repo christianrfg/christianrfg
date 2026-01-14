@@ -16,12 +16,8 @@
 <h4 align="left">About Me</h4>
 
 As a Senior Data Scientist and Machine Learning Engineer with over 7 years of experience in both software industry and academic research, I have demonstrated a strong ability to develop and deploy complex machine learning models and solutions. My academic background includes a Master's degree in Computer Science, with a specialization in Natural Language Processing (NLP).
-
-  
-<h4 align="left">Current Challenges</h4>
   
 - 🌱 Freelancing at UpWork.
-- 📚 Studying about Web Development.
   
 <h4 align="left">Tools</h4>
 <div style="display: inline_block">
