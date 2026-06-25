@@ -17,8 +17,6 @@
 
 As a Senior Data Scientist and Machine Learning Engineer with over 7 years of experience in both software industry and academic research, I have demonstrated a strong ability to develop and deploy complex machine learning models and solutions. My academic background includes a Master's degree in Computer Science, with a specialization in Natural Language Processing (NLP).
   
-- 🌱 Freelancing at UpWork.
-  
 <h4 align="left">Tools</h4>
 <div style="display: inline_block">
   <img align="center" alt="Chris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
